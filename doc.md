@@ -1,10 +1,5 @@
-### How to use this template:
+ MRCS-SIGNAL-COMMON-DISTRIBUTION
 
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+ As "We Honest" signals become more popular, many users prefer to use a single limiting resistor per head, rather than a resistor per signal line (R/Y/G). This board provides 3 8-segment SIPs to 
+ power up to 24 common leads (usually anode, but no reason it won't work for cathodes). The board features a barrel jack and a 4 position screw terminal for power input (ground is just passed through).
+ Two 12 position 0.100 screw terminals provide connections to the signal heads.
