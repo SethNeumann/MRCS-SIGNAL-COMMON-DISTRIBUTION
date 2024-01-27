@@ -1,0 +1,8 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
+"1";".01 uF";"CAPPTH1";"C050-024X044";"C1";"";"";"";"";"";
+"3";"270";"RN08";"RN-9";"RN1, RN2, RN3";"RESISTOR NETWORK";"";"";"unknown";"unknown";
+"1";"DC PWR";"CONNECTOR-DC-POWER-RA";"DCJ0202";"CON1";"DC POWER JACK";"";"";"";"";
+"1";"OUTPUT1";"CONNECTOR-M12LOCK";"1X12_LOCK";"CON3";"Header 12";"";"";"";"";
+"1";"OUTPUT2";"CONNECTOR-M12LOCK";"1X12_LOCK";"CON4";"Header 12";"";"";"";"";
+"1";"Power/GND";"CONNECTOR-M04SCREW_LOCK";"SCREWTERMINAL-3.5MM-4_LOCK";"CON2";"Header 4";"";"";"";"";
+"1";"RED";"LEDLED3MM";"LED3MM";"LED1";"";"";"";"";"";
